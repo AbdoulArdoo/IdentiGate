@@ -99,11 +99,11 @@ Des scénarios de test ont validé la cohérence du modèle de rôles : un compt
 - Intégration d'un annuaire **LDAP** pour la fédération d'identités
 - Connecteurs externes pour élargir l'interopérabilité du realm
 
-## 📄Documentation complète
+## Documentation complète
 
 La présentation détaillée du projet (architecture, choix techniques, démonstration pas à pas) est disponible dans [`docs/`](docs/).
 
 ---
 
-**Auteur** : Abdoul Ardo KAH — Étudiant Ingénieur Cybersécurité, Ecole Centrale Polytechnique d'ingénieurs (ECPI Dakar)
-📧 abdoulardokah@gmail.com
+Abdoul Ardo KAH — Étudiant Ingénieur Cybersécurité, Ecole Centrale Polytechnique d'ingénieurs (ECPI Dakar)
+abdoulardokah@gmail.com
